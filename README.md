@@ -1,7 +1,7 @@
-## Hi there 👋
+[![greenfield0000's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greenfield0000&layout=compact&theme=dark&langs_count=10&exclude_repo=VKR-TeX&hide=csharp)](#)
 
 <!--
-**greenfield0000/greenfield0000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**nullawhale/nullawhale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
